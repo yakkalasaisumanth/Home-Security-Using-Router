@@ -185,13 +185,13 @@ user
 
 9. disable broad cast  will disable from broadcasting a channel.
 
-- ![disable SSID](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/blocking relay.png)
+- ![disable SSID](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/disabling%20wlan%20interface.png)
 
 10. if you hide the SSID your mobiles can't connect to the network. and even a person who is monitoring traffic cannot see your wireless device.
 
 11. block relay is used for bitcoin related queries where if your network gets compromised enabling this feature will save your device from connecting to the multiple crypto sites.
 
-- ![block relay](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/blocking relay.png)
+- ![block relay](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/blocking%20relay.png)
 
 
 12. now other settings you can increase or decrease the channel width. this setting lets you increase and decrease the coverage area.
@@ -287,7 +287,7 @@ user
  1. user management.
  2. device management.
 
-- ![management settings](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/ddns setup.png)
+- ![management settings](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/ddns%20setup.png)
 
 2. here a user can ***Change The Default Credentials***
 
@@ -307,11 +307,13 @@ user
 
 1. now select the save and reboot option to save the entire settings made and rebooting the router.
 
-2. please wait for some time to start the router.
+- ![save reboot](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/save%20and%20reboot.png)
 
-3. now your home router or network is secured.
+3. please wait for some time to start the router.
 
-4. please keep in mind that this is not the best security but we can mitigate so many attacks like capturing, brute forcing, unauthorized devices, harmful websites,etc,.
+4. now your home router or network is secured.
+
+5. please keep in mind that this is not the best security but we can mitigate so many attacks like capturing, brute forcing, unauthorized devices, harmful websites,etc,.
 
 #### Thank You For Reading The Entire Article If like The Article Please ***Comment Like***.
 
