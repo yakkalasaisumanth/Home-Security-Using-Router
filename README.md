@@ -31,7 +31,7 @@
 
 - now you see a login page.
 
-- ![login page](./images/loginpage.png")
+- ![login page](https://github.com/yakkalasaisumanth/Home-Security-Using-Router/blob/main/images/loginpage.png)
 
 - most of the cases the default credentials are as bellow.
 
